@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+.h1-tag{
+    color:red;
+}
+.navbar{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    background-color: bisque;
+    padding: 15px;
+    font-weight: 200;
+}
+.navbar a{
+padding: 15px;
+text-decoration: none;
+color:#437f81;
+}
+.navbar a:hover{
+    background-color: rgb(148, 166, 166);
+    text-decoration: underline;
+}
